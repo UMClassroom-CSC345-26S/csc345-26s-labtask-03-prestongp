@@ -1,0 +1,6 @@
+,Cluster Style,Size of Cluster,Accuracy
+Cluster 0,SUV,37,65%
+Cluster 1,Sedan,43,67%
+Cluster 2,SUV,62,45%
+Cluster 3,SUV,17,59%
+Cluster 4,Van,1,100%
